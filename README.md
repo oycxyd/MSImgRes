@@ -1,5 +1,6 @@
 # MSImgRes
-Automated Image Restoration for MSI data
+## Automated Image Restoration for MSI data
+## https://doi.org/10.3390/metabo13050669
 
 **Installation**:
 
