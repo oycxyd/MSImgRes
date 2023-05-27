@@ -6,7 +6,8 @@ Automated Image Restoration for MSI data
 *MATLAB >= 2020 is needed for AutoDeconv
 
 - AutoDeconv
-- Add the AutoDeconv folder and its content to path and run AutoDeconv_demo.m for example code.
+
+Add the AutoDeconv folder and its content to path and run AutoDeconv_demo.m for example code.
 
 - GANUNET
 1. create environment using the yml file included in the folder by e.g., _conda env create -n imgres -f imgres.yml_
